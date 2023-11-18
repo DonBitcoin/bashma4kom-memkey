@@ -1,0 +1,9 @@
+main {
+    background-color: lightgray;
+}
+
+#reference-text {
+  resize: none;
+  border: 2px solid #1A1A1A;
+  font-size: 1rem;
+}

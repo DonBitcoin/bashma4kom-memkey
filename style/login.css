@@ -1,0 +1,15 @@
+#register {
+    display: inherit;
+    align-self: inherit;
+    flex-direction: column;
+    background-color: aliceblue;
+    border: 3px black solid;
+    border-radius: 1em;
+}
+
+#register > button {
+    border-radius: 15px;
+    min-height: 50px;
+    margin-top: 3%;
+    width: 100%;
+}
